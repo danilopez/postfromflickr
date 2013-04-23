@@ -3,7 +3,7 @@
 	Plugin Name: Post from Flickr
 	Plugin URI: http://daniellopez.es
 	Version: 0.1
-	Description: Publish every public photo from Flickr as a post with featured image. 
+	Description: Publish each public photo from Flickr as a post with featured image. 
 	Author: Daniel López
 	Author URI: http://daniellopez.es
 	License: GPL2
